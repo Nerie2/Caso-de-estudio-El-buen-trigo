@@ -3,7 +3,6 @@
 
 #include <iostream>
 
-
 class VistaAdministrador {
 public:
     // Menú principal del administrador
