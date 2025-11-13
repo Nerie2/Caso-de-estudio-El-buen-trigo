@@ -17,7 +17,7 @@ Colaboradores:
 #include <iostream>
 using namespace std;
 
-class EncargadoInventario : public Administrador {
+class EncargadoInventario {
 public:
     EncargadoInventario();
 
