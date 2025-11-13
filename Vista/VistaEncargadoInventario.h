@@ -1,12 +1,12 @@
-#ifndef VISTA_INVENTARIO_H
-#define VISTA_INVENTARIO_H
+#ifndef VISTA_ENCARGADO_INVENTARIO_H
+#define VISTA_ENCARGADO_INVENTARIO_H
 
 #include <iostream>
 using namespace std;
 
-class VistaInventario {
+class VistaEncargadoInventario {
 public:
-    void mostrarMenuInventario();
+    void mostrarMenuEncargadoInventario();
     void mostrarInventarioIngredientes();
     void mostrarAlertasReposicion();
     bool advertenciaEliminacionIngrediente();
