@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #ifndef CONTROLADORGENERAL_H
 #define CONTROLADORGENERAL_H
 
@@ -33,7 +33,6 @@ public:
 
 #endif // CONTROLADORGENERAL_H
 
-=======
 /*
 ===============================================================================
                                 TARJETA CRC
