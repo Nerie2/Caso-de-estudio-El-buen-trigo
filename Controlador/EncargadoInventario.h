@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #ifndef ENCARGADOINVENTARIO_H
 #define ENCARGADOINVENTARIO_H
 
@@ -19,7 +19,7 @@ public:
 };
 
 #endif
-=======
+
 /*
 ===============================================================================
                                 TARJETA CRC
